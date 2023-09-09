@@ -26,7 +26,7 @@
 
 <br>
 
-<img src="img/grid_search_cross_validation.png">
+<img src="img/grid_search_cross_validation.png" width="450" height="300">
 <br>
 
 정말 간단한 방법이다 <br>
@@ -58,4 +58,4 @@
 쉽게 말해, 레이블 분포의 비율을 고려하는 것이 굉장히 중요한데<br>
 이를 해결한 기법이 **StratifiedKFold** 기법이다
 
-<img src="img/StratifiedKFold.png">
+<img src="img/StratifiedKFold.png" width="900" height="600">
