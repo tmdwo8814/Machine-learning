@@ -58,4 +58,4 @@
 쉽게 말해, 레이블 분포의 비율을 고려하는 것이 굉장히 중요한데<br>
 이를 해결한 기법이 **StratifiedKFold** 기법이다
 
-<img src="img/StratifiedKFold.png" width="900" height="600">
+<img src="img/StratifiedKFold.png" width="600" height="400">
